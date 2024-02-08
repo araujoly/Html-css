@@ -1,0 +1,32 @@
+h1{
+    color: red;
+    text-align: center;
+    text-align: left;
+}
+
+p{
+    color: rgb(94, 255, 0);
+    text-align: left;
+}
+
+li{
+    color: rgb(0, 98, 255);
+    text-align: justify;
+}
+
+.special {
+    color: orange;
+    font-weight: bold;
+    font-size: 20px; /* px significa "pixels": o tamanho da fonte base é agora de 10 pixels */
+    font-family: "Open Sans", sans-serif; /* este deve ser o nome da fonte que você obteve no Google Fonts */
+    text-align: right;
+  }
+
+  body{
+    background-color: #c4cdb5;
+  }
+
+
+
+  
+  
